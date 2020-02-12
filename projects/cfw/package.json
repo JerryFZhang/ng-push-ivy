@@ -1,6 +1,22 @@
 {
   "name": "ng-push-ivy",
-  "version": "1.0.3",
+  "version": "1.0.4",
+  "license": "MIT",
+  "description": "Angular Push Notifications API Wrapper",
+  "homepage": "https://github.com/JerryFZhang/ng-push-ivy#readme",
+  "bugs": {
+    "url": "https://github.com/JerryFZhang/ng-push-ivy/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryFZhang/ng-push-ivy.git"
+  },
+  "author": "JerryFZhang <Hi@JerryFZhang.com>",
+  "keywords": [
+    "angular",
+    "push-notifications",
+    "NotificationAPI"
+  ],
   "peerDependencies": {
     "@angular/cdk": "^8.2.3",
     "@angular/animations": "^8.2.12",

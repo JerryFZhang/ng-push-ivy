@@ -1,6 +1,6 @@
 # ng-push-ivy
 
-> An Angular wrapper around the Notifications API
+Angular Push Notifications API Wrapper
 
 [![NPM Version](https://img.shields.io/npm/v/ng-push-ivy.svg)](https://www.npmjs.com/package/ng-push-ivy)
 [![NPM Downloads](https://img.shields.io/npm/dt/ng-push-ivy.svg)](https://www.npmjs.com/package/ng-push-ivy)
