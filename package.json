@@ -1,6 +1,6 @@
 {
   "name": "ng-push-ivy",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "license": "MIT",
   "description": "> An Angular wrapper around the Notifications API",
   "homepage": "https://github.com/JerryFZhang/ng-push-ivy#readme",

@@ -2,8 +2,8 @@
 
 > An Angular wrapper around the Notifications API
 
-[![NPM Version](https://img.shields.io/npm/v/ng-push.svg)](https://www.npmjs.com/package/ng-push-ivy)
-[![NPM Downloads](https://img.shields.io/npm/dt/ng-push.svg)](https://www.npmjs.com/package/ng-push-ivy)
+[![NPM Version](https://img.shields.io/npm/v/ng-push-ivy.svg)](https://www.npmjs.com/package/ng-push-ivy)
+[![NPM Downloads](https://img.shields.io/npm/dt/ng-push-ivy.svg)](https://www.npmjs.com/package/ng-push-ivy)
 
 If you aren't familiar with push notifications you can read more about them on the [Mozilla developer network](https://developer.mozilla.org/en-US/docs/Web/API/Notification).
 
