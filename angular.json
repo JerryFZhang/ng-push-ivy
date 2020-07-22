@@ -17,9 +17,9 @@
           },
           "configurations": {
             "production": {
-              "project": "projects/cfw/ng-package.prod.json"
-            ,              "tsConfig": "projects/cfw/tsconfig.lib.prod.json"
-}
+              "project": "projects/cfw/ng-package.prod.json",
+              "tsConfig": "projects/cfw/tsconfig.lib.prod.json"
+            }
           }
         },
         "test": {
@@ -33,8 +33,13 @@
         "lint": {
           "builder": "@angular-devkit/build-angular:tslint",
           "options": {
-            "tsConfig": ["projects/cfw/tsconfig.lib.json", "projects/cfw/tsconfig.spec.json"],
-            "exclude": ["**/node_modules/**"]
+            "tsConfig": [
+              "projects/cfw/tsconfig.lib.json",
+              "projects/cfw/tsconfig.spec.json"
+            ],
+            "exclude": [
+              "**/node_modules/**"
+            ]
           }
         }
       }
@@ -49,5 +54,8 @@
     "@schematics/angular:directive": {
       "prefix": "app"
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }
