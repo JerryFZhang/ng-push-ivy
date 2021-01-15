@@ -1,6 +1,6 @@
 {
   "name": "ng-push-ivy",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "license": "MIT",
   "description": "Angular Push Notifications API Wrapper",
   "homepage": "https://github.com/JerryFZhang/ng-push-ivy#readme",
@@ -17,6 +17,9 @@
     "push-notifications",
     "NotificationAPI"
   ],
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
   "peerDependencies": {
     "@angular/core": "^9.0.0",
     "rxjs": "^6.5.3",
