@@ -23,7 +23,7 @@ export class PushNotificationsService {
     }
   }
 
-  create(title: string, options?: PushNotification): any {
+  create(title: string, options?: PushNotification): Observable<{notification: Notification, event: any}> {
 
     return new Observable((obs: any) => {
 
